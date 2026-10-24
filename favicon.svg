@@ -1,0 +1,2 @@
+<svg viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg"><title>Cairn app icon</title><defs><linearGradient id="g" x1="0.1" y1="0" x2="0.9" y2="1"><stop offset="0" stop-color="#c9f78f"/><stop offset="1" stop-color="#62d49a"/></linearGradient></defs><rect width="512" height="512" rx="116" fill="#0d1a13"/>
+<g transform="translate(256 256) scale(.78) translate(-256 -256)" fill="url(#g)" stroke="url(#g)" stroke-width="6" stroke-linejoin="round"><path d="M96 416V332H416V416Z"/><path d="M160 316V232H416V316Z"/><path d="M96 216C236 216 312 184 348 132H416V216Z"/></g></svg>
